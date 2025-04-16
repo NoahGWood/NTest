@@ -1,0 +1,3 @@
+[submodule "vendor/NCLI"]
+	path = vendor/NCLI
+	url = https://github.com/NoahGWood/NCLI.git
