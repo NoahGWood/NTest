@@ -1,5 +1,8 @@
 # NTest – Minimal C++ Unit Testing Framework
 
+[![CI](https://github.com/NoahGWood/NTest/actions/workflows/ci.yaml/badge.svg)](https://github.com/NoahGWood/NTest/actions/workflows/ci.yaml)&nbsp;[![Issues](https://img.shields.io/github/issues/NoahGWood/NTest.svg)](https://github.com/NoahGWood/NTest/issues)&nbsp;[![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)]()&nbsp;[![Last Commit](https://img.shields.io/github/last-commit/NoahGWood/NTest.svg)](https://github.com/NoahGWood/NTest)
+
+
 **NTest** is a lightweight, single-header unit testing framework for C++ projects.  
 Inspired by simplicity, designed for speed, and pretty enough for your terminal.
 
