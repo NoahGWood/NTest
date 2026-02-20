@@ -1,14 +1,13 @@
-#include "NTest.h"
+#include <NTest.h>
 
 TEST(AdditionWorks) {
-    ASSERT_EQ(2+2, 4);
+    REQUIRE_EQ(2 + 2, 4);
+    ASSERT_EQ(2 + 2, 4);
 }
 
-TEST(TruthIsTrue)
-{
+TEST(TruthIsTrue) {
+    REQUIRE(true);
     ASSERT_TRUE(true);
 }
 
-int main() {
-    return NTest::run_all();
-}
+int main() { return NTest::run_all(); }

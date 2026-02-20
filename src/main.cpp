@@ -1,5 +1,3 @@
-#include "NTest.h"
+#include <NTest.h>
 
-int main() {
-    return NTest::run_all();
-}
+int main() { return NTest::run_all(); }
