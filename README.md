@@ -99,6 +99,5 @@ It intentionally avoids advanced meta-programming and heavy DSLs.
 ---
 
 ## License
-
-[TBD]
+MIT
 
